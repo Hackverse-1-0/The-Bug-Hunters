@@ -69,3 +69,4 @@ Phase 4 – Global Rollout
 •	Launch in international markets with strong privacy awareness (EU and USA).
 •	Localize marketing and features for global users.
 •	Build a trusted global brand in mobile security privacy.
+**prototype**: https://secureme-guardian-angel.lovable.app
