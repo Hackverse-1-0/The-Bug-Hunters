@@ -1,5 +1,5 @@
 # The-Bug-Hunters
-**Secure Me** is a cutting edge android mobile security app made to instantly safeguard users complete control over device and security and data recovery by fusing hardware sensor monitoring, AI-driven threat detection, and encrypted cloud backup.   
+**Sentinel** is a cutting edge android mobile security app made to instantly safeguard users complete control over device and security and data recovery by fusing hardware sensor monitoring, AI-driven threat detection, and encrypted cloud backup.   
 **Problem statement:**
 •	Android devices are increasingly targeted by phishing and spyware.
 •	Apps misuse camera, mic, and location without user awareness.
